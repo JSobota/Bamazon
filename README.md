@@ -13,3 +13,8 @@
 <li>Add to Inventory</li>
 <li>Add New Product</li>
 <br>
+<h3>NPM Packages Used</h3>
+<li>prompt</li>
+<li>colors</li>
+<li>mysql</li>
+<li>cli-table</li>
